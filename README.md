@@ -1,7 +1,7 @@
-### Tesla and GameStop Stock Analysis
-## Aim
+## Tesla and GameStop Stock Analysis
+### Aim
 The aim of this project is to analyze the stock performance of Tesla (TSLA) and GameStop (GME) by extracting historical stock data using the yfinance library and revenue data through web scraping. The analysis includes plotting the stock prices for both companies to visualize trends and performance over time.
-## Procedure
+### Procedure
 ### 1.Extract Tesla Stock Data:
 Use the yfinance library to download historical stock data for Tesla from January 1, 2020, to January 1, 2024.
 Reset the index of the resulting DataFrame for easier manipulation.
